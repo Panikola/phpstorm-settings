@@ -1,0 +1,7 @@
+<templateSet group="JavaScript">
+  <template name="csl" value="console.log($END$)" description="console.log()" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="JS_STATEMENT" value="true" />
+    </context>
+  </template>
+</templateSet>
