@@ -16,6 +16,13 @@
     <option name="SPACE_BEFORE_UNARY_NOT" value="true" />
     <option name="SPACE_AFTER_UNARY_NOT" value="true" />
   </JSCodeStyleSettings>
+  <codeStyleSettings language="Blade">
+    <indentOptions>
+      <option name="INDENT_SIZE" value="2" />
+      <option name="CONTINUATION_INDENT_SIZE" value="2" />
+      <option name="TAB_SIZE" value="2" />
+    </indentOptions>
+  </codeStyleSettings>
   <codeStyleSettings language="HTML">
     <indentOptions>
       <option name="INDENT_SIZE" value="2" />
