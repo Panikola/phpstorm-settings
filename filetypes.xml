@@ -1,8 +1,8 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping pattern="*.js.flow" type="Flow" />
-      <mapping pattern="*.js.flow" type="Flow" />
+      <mapping pattern=".env" type="PLAIN_TEXT" />
+      <mapping pattern=".env.webpack" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
