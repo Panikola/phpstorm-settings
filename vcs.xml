@@ -6,6 +6,10 @@
           <option name="url" value="http://gitlab.com" />
           <option name="userName" value="pavel.kanavalau@gmail.com" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://bitbucket.org" />
+          <option name="userName" value="pk-pass24" />
+        </UrlAndUserName>
       </list>
     </option>
   </component>
