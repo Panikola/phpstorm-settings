@@ -5,8 +5,16 @@
         <entry key="ShowSettings">
           <value>
             <ActionSummary>
-              <option name="last" value="1581242396577" />
-              <option name="times" value="2" />
+              <option name="last" value="1581242599356" />
+              <option name="times" value="3" />
+            </ActionSummary>
+          </value>
+        </entry>
+        <entry key="com.intellij.grazie.ide.notification.Notification$showLanguagesMessage$1">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1581242590497" />
+              <option name="times" value="1" />
             </ActionSummary>
           </value>
         </entry>
