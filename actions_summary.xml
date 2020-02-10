@@ -90,6 +90,14 @@
             </ActionSummary>
           </value>
         </entry>
+        <entry key="ChangesView.Revert">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1581363073353" />
+              <option name="times" value="2" />
+            </ActionSummary>
+          </value>
+        </entry>
         <entry key="ClassNameCompletion">
           <value>
             <ActionSummary>
@@ -173,8 +181,8 @@
         <entry key="EditorCopy">
           <value>
             <ActionSummary>
-              <option name="last" value="1581349693710" />
-              <option name="times" value="110" />
+              <option name="last" value="1581363120216" />
+              <option name="times" value="111" />
             </ActionSummary>
           </value>
         </entry>
@@ -365,16 +373,16 @@
         <entry key="GotoDeclaration">
           <value>
             <ActionSummary>
-              <option name="last" value="1581360550444" />
-              <option name="times" value="84" />
+              <option name="last" value="1581363113801" />
+              <option name="times" value="87" />
             </ActionSummary>
           </value>
         </entry>
         <entry key="GotoFile">
           <value>
             <ActionSummary>
-              <option name="last" value="1581360519179" />
-              <option name="times" value="19" />
+              <option name="last" value="1581363097017" />
+              <option name="times" value="20" />
             </ActionSummary>
           </value>
         </entry>
@@ -677,8 +685,8 @@
         <entry key="com.intellij.openapi.project.DumbAwareAction$SimpleDumbAwareAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1581360526100" />
-              <option name="times" value="42" />
+              <option name="last" value="1581363102634" />
+              <option name="times" value="43" />
             </ActionSummary>
           </value>
         </entry>
@@ -693,8 +701,8 @@
         <entry key="com.intellij.openapi.wm.impl.ToolWindowHeader$HideAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1581360515788" />
-              <option name="times" value="42" />
+              <option name="last" value="1581363090657" />
+              <option name="times" value="44" />
             </ActionSummary>
           </value>
         </entry>
