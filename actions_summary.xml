@@ -229,8 +229,8 @@
         <entry key="EditorLeft">
           <value>
             <ActionSummary>
-              <option name="last" value="1581349742980" />
-              <option name="times" value="345" />
+              <option name="last" value="1581355541421" />
+              <option name="times" value="346" />
             </ActionSummary>
           </value>
         </entry>
@@ -549,16 +549,16 @@
         <entry key="Vcs.Push">
           <value>
             <ActionSummary>
-              <option name="last" value="1581349876027" />
-              <option name="times" value="8" />
+              <option name="last" value="1581355486889" />
+              <option name="times" value="10" />
             </ActionSummary>
           </value>
         </entry>
         <entry key="Vcs.UpdateProject">
           <value>
             <ActionSummary>
-              <option name="last" value="1581349861697" />
-              <option name="times" value="14" />
+              <option name="last" value="1581355470683" />
+              <option name="times" value="28" />
             </ActionSummary>
           </value>
         </entry>
@@ -661,8 +661,8 @@
         <entry key="com.intellij.notification.NotificationAction$1">
           <value>
             <ActionSummary>
-              <option name="last" value="1581321139252" />
-              <option name="times" value="1" />
+              <option name="last" value="1581355449080" />
+              <option name="times" value="3" />
             </ActionSummary>
           </value>
         </entry>
@@ -685,8 +685,8 @@
         <entry key="com.intellij.openapi.wm.impl.ToolWindowHeader$HideAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1581349278838" />
-              <option name="times" value="38" />
+              <option name="last" value="1581355385695" />
+              <option name="times" value="40" />
             </ActionSummary>
           </value>
         </entry>
@@ -749,16 +749,16 @@
         <entry key="git4idea.ui.branch.GitBranchPopupActions$LocalBranchActions$CheckoutAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1581336252363" />
-              <option name="times" value="8" />
+              <option name="last" value="1581355468577" />
+              <option name="times" value="12" />
             </ActionSummary>
           </value>
         </entry>
         <entry key="git4idea.ui.branch.GitBranchPopupActions$MergeAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1581336259798" />
-              <option name="times" value="7" />
+              <option name="last" value="1581355478901" />
+              <option name="times" value="9" />
             </ActionSummary>
           </value>
         </entry>
