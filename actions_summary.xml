@@ -29,8 +29,8 @@
         <entry key="$Redo">
           <value>
             <ActionSummary>
-              <option name="last" value="1581520782946" />
-              <option name="times" value="45" />
+              <option name="last" value="1581529044001" />
+              <option name="times" value="46" />
             </ActionSummary>
           </value>
         </entry>
@@ -45,8 +45,8 @@
         <entry key="$Undo">
           <value>
             <ActionSummary>
-              <option name="last" value="1581525760163" />
-              <option name="times" value="268" />
+              <option name="last" value="1581529039804" />
+              <option name="times" value="270" />
             </ActionSummary>
           </value>
         </entry>
@@ -189,8 +189,8 @@
         <entry key="EditorBackSpace">
           <value>
             <ActionSummary>
-              <option name="last" value="1581524817367" />
-              <option name="times" value="394" />
+              <option name="last" value="1581529061278" />
+              <option name="times" value="395" />
             </ActionSummary>
           </value>
         </entry>
@@ -205,8 +205,8 @@
         <entry key="EditorChooseLookupItemReplace">
           <value>
             <ActionSummary>
-              <option name="last" value="1581526835284" />
-              <option name="times" value="82" />
+              <option name="last" value="1581529155961" />
+              <option name="times" value="83" />
             </ActionSummary>
           </value>
         </entry>
@@ -245,8 +245,8 @@
         <entry key="EditorDeleteToWordStart">
           <value>
             <ActionSummary>
-              <option name="last" value="1581519058808" />
-              <option name="times" value="50" />
+              <option name="last" value="1581529103587" />
+              <option name="times" value="51" />
             </ActionSummary>
           </value>
         </entry>
@@ -269,8 +269,8 @@
         <entry key="EditorEnter">
           <value>
             <ActionSummary>
-              <option name="last" value="1581526834052" />
-              <option name="times" value="116" />
+              <option name="last" value="1581529154161" />
+              <option name="times" value="117" />
             </ActionSummary>
           </value>
         </entry>
@@ -333,8 +333,8 @@
         <entry key="EditorPreviousWord">
           <value>
             <ActionSummary>
-              <option name="last" value="1581518957343" />
-              <option name="times" value="85" />
+              <option name="last" value="1581529102744" />
+              <option name="times" value="88" />
             </ActionSummary>
           </value>
         </entry>
@@ -429,8 +429,8 @@
         <entry key="GotoDeclaration">
           <value>
             <ActionSummary>
-              <option name="last" value="1581527274578" />
-              <option name="times" value="124" />
+              <option name="last" value="1581529730562" />
+              <option name="times" value="126" />
             </ActionSummary>
           </value>
         </entry>
@@ -541,8 +541,8 @@
         <entry key="Rerun">
           <value>
             <ActionSummary>
-              <option name="last" value="1581526843433" />
-              <option name="times" value="40" />
+              <option name="last" value="1581529108382" />
+              <option name="times" value="42" />
             </ActionSummary>
           </value>
         </entry>
