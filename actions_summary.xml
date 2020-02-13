@@ -154,6 +154,14 @@
             </ActionSummary>
           </value>
         </entry>
+        <entry key="Console.TableResult.AddRow">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1581591516579" />
+              <option name="times" value="4" />
+            </ActionSummary>
+          </value>
+        </entry>
         <entry key="Console.TableResult.DeleteRows">
           <value>
             <ActionSummary>
@@ -173,8 +181,8 @@
         <entry key="Console.TableResult.Submit">
           <value>
             <ActionSummary>
-              <option name="last" value="1581335958583" />
-              <option name="times" value="10" />
+              <option name="last" value="1581591547243" />
+              <option name="times" value="12" />
             </ActionSummary>
           </value>
         </entry>
@@ -738,6 +746,22 @@
             </ActionSummary>
           </value>
         </entry>
+        <entry key="com.intellij.database.run.ui.grid.editors.GridCellEditorTextField$2">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1581591541051" />
+              <option name="times" value="2" />
+            </ActionSummary>
+          </value>
+        </entry>
+        <entry key="com.intellij.database.run.ui.grid.editors.GridCellEditorTextField$3">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1581591530520" />
+              <option name="times" value="2" />
+            </ActionSummary>
+          </value>
+        </entry>
         <entry key="com.intellij.database.view.ui.DatabaseConfigEditorImpl$AddAction">
           <value>
             <ActionSummary>
@@ -885,8 +909,8 @@
         <entry key="com.intellij.openapi.wm.impl.ToolWindowHeader$HideAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1581587464635" />
-              <option name="times" value="82" />
+              <option name="last" value="1581591450185" />
+              <option name="times" value="84" />
             </ActionSummary>
           </value>
         </entry>
