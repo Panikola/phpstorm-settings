@@ -45,8 +45,8 @@
         <entry key="$Undo">
           <value>
             <ActionSummary>
-              <option name="last" value="1581597420971" />
-              <option name="times" value="274" />
+              <option name="last" value="1581601235529" />
+              <option name="times" value="275" />
             </ActionSummary>
           </value>
         </entry>
@@ -149,8 +149,8 @@
         <entry key="CommentByLineComment">
           <value>
             <ActionSummary>
-              <option name="last" value="1581526657799" />
-              <option name="times" value="7" />
+              <option name="last" value="1581601542122" />
+              <option name="times" value="8" />
             </ActionSummary>
           </value>
         </entry>
@@ -245,8 +245,8 @@
         <entry key="EditorCopy">
           <value>
             <ActionSummary>
-              <option name="last" value="1581599354205" />
-              <option name="times" value="223" />
+              <option name="last" value="1581601199988" />
+              <option name="times" value="224" />
             </ActionSummary>
           </value>
         </entry>
@@ -365,8 +365,8 @@
         <entry key="EditorPaste">
           <value>
             <ActionSummary>
-              <option name="last" value="1581598476678" />
-              <option name="times" value="233" />
+              <option name="last" value="1581601224993" />
+              <option name="times" value="234" />
             </ActionSummary>
           </value>
         </entry>
@@ -549,8 +549,8 @@
         <entry key="PhpListenDebugAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1581334973629" />
-              <option name="times" value="4" />
+              <option name="last" value="1581601292471" />
+              <option name="times" value="6" />
             </ActionSummary>
           </value>
         </entry>
@@ -581,24 +581,24 @@
         <entry key="Rerun">
           <value>
             <ActionSummary>
-              <option name="last" value="1581529108382" />
-              <option name="times" value="42" />
+              <option name="last" value="1581601363165" />
+              <option name="times" value="44" />
             </ActionSummary>
           </value>
         </entry>
         <entry key="Resume">
           <value>
             <ActionSummary>
-              <option name="last" value="1581598731508" />
-              <option name="times" value="64" />
+              <option name="last" value="1581601273450" />
+              <option name="times" value="66" />
             </ActionSummary>
           </value>
         </entry>
         <entry key="Run">
           <value>
             <ActionSummary>
-              <option name="last" value="1581517279655" />
-              <option name="times" value="12" />
+              <option name="last" value="1581601342912" />
+              <option name="times" value="14" />
             </ActionSummary>
           </value>
         </entry>
@@ -909,8 +909,8 @@
         <entry key="com.intellij.openapi.wm.impl.ToolWindowHeader$HideAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1581591450185" />
-              <option name="times" value="84" />
+              <option name="last" value="1581601548714" />
+              <option name="times" value="86" />
             </ActionSummary>
           </value>
         </entry>
