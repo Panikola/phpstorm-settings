@@ -429,8 +429,8 @@
         <entry key="GotoDeclaration">
           <value>
             <ActionSummary>
-              <option name="last" value="1581529730562" />
-              <option name="times" value="126" />
+              <option name="last" value="1581579685434" />
+              <option name="times" value="127" />
             </ActionSummary>
           </value>
         </entry>
@@ -909,8 +909,8 @@
         <entry key="org.intellij.plugins.markdown.ui.actions.editorLayout.PreviewOnlyLayoutChangeAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1581525774718" />
-              <option name="times" value="4" />
+              <option name="last" value="1581579691912" />
+              <option name="times" value="6" />
             </ActionSummary>
           </value>
         </entry>
