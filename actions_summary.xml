@@ -61,8 +61,8 @@
         <entry key="ActivateProjectToolWindow">
           <value>
             <ActionSummary>
-              <option name="last" value="1581683366593" />
-              <option name="times" value="28" />
+              <option name="last" value="1581701838948" />
+              <option name="times" value="30" />
             </ActionSummary>
           </value>
         </entry>
@@ -269,8 +269,8 @@
         <entry key="EditorCopy">
           <value>
             <ActionSummary>
-              <option name="last" value="1581701215252" />
-              <option name="times" value="334" />
+              <option name="last" value="1581701864986" />
+              <option name="times" value="335" />
             </ActionSummary>
           </value>
         </entry>
@@ -965,8 +965,8 @@
         <entry key="com.intellij.ide.ReopenProjectAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1581682369308" />
-              <option name="times" value="12" />
+              <option name="last" value="1581701806336" />
+              <option name="times" value="13" />
             </ActionSummary>
           </value>
         </entry>
