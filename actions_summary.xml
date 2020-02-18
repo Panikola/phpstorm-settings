@@ -253,8 +253,8 @@
         <entry key="EditorBackSpace">
           <value>
             <ActionSummary>
-              <option name="last" value="1582032656609" />
-              <option name="times" value="1303" />
+              <option name="last" value="1582033470371" />
+              <option name="times" value="1320" />
             </ActionSummary>
           </value>
         </entry>
@@ -357,8 +357,8 @@
         <entry key="EditorLeft">
           <value>
             <ActionSummary>
-              <option name="last" value="1582011441591" />
-              <option name="times" value="1945" />
+              <option name="last" value="1582033456721" />
+              <option name="times" value="1962" />
             </ActionSummary>
           </value>
         </entry>
@@ -429,8 +429,8 @@
         <entry key="EditorRight">
           <value>
             <ActionSummary>
-              <option name="last" value="1582011442084" />
-              <option name="times" value="2181" />
+              <option name="last" value="1582033454783" />
+              <option name="times" value="2182" />
             </ActionSummary>
           </value>
         </entry>
@@ -669,8 +669,8 @@
         <entry key="RenameElement">
           <value>
             <ActionSummary>
-              <option name="last" value="1581948734140" />
-              <option name="times" value="12" />
+              <option name="last" value="1582033450086" />
+              <option name="times" value="13" />
             </ActionSummary>
           </value>
         </entry>
@@ -1109,8 +1109,8 @@
         <entry key="com.intellij.openapi.wm.impl.ToolWindowHeader$HideAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1582032614743" />
-              <option name="times" value="176" />
+              <option name="last" value="1582033432303" />
+              <option name="times" value="178" />
             </ActionSummary>
           </value>
         </entry>
