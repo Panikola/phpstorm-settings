@@ -245,8 +245,8 @@
         <entry key="DatabaseView.Dump.Native">
           <value>
             <ActionSummary>
-              <option name="last" value="1582113735771" />
-              <option name="times" value="1" />
+              <option name="last" value="1582115335687" />
+              <option name="times" value="2" />
             </ActionSummary>
           </value>
         </entry>
@@ -261,8 +261,8 @@
         <entry key="DatabaseView.Refresh">
           <value>
             <ActionSummary>
-              <option name="last" value="1582113511010" />
-              <option name="times" value="32" />
+              <option name="last" value="1582115031316" />
+              <option name="times" value="36" />
             </ActionSummary>
           </value>
         </entry>
@@ -1069,8 +1069,8 @@
         <entry key="com.intellij.ide.ReopenProjectAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1582054024071" />
-              <option name="times" value="16" />
+              <option name="last" value="1582114998640" />
+              <option name="times" value="17" />
             </ActionSummary>
           </value>
         </entry>
@@ -1149,8 +1149,8 @@
         <entry key="com.intellij.openapi.wm.impl.ToolWindowHeader$HideAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1582111807787" />
-              <option name="times" value="214" />
+              <option name="last" value="1582114991366" />
+              <option name="times" value="216" />
             </ActionSummary>
           </value>
         </entry>
