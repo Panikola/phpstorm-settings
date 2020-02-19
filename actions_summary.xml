@@ -5,8 +5,8 @@
         <entry key="$Copy">
           <value>
             <ActionSummary>
-              <option name="last" value="1582107292093" />
-              <option name="times" value="14" />
+              <option name="last" value="1582113618991" />
+              <option name="times" value="15" />
             </ActionSummary>
           </value>
         </entry>
@@ -21,8 +21,8 @@
         <entry key="$Paste">
           <value>
             <ActionSummary>
-              <option name="last" value="1582107292350" />
-              <option name="times" value="13" />
+              <option name="last" value="1582113623208" />
+              <option name="times" value="14" />
             </ActionSummary>
           </value>
         </entry>
@@ -45,24 +45,24 @@
         <entry key="$Undo">
           <value>
             <ActionSummary>
-              <option name="last" value="1582111343957" />
-              <option name="times" value="985" />
+              <option name="last" value="1582112710049" />
+              <option name="times" value="987" />
             </ActionSummary>
           </value>
         </entry>
         <entry key="ActivateCommitToolWindow">
           <value>
             <ActionSummary>
-              <option name="last" value="1582108762229" />
-              <option name="times" value="55" />
+              <option name="last" value="1582112594410" />
+              <option name="times" value="56" />
             </ActionSummary>
           </value>
         </entry>
         <entry key="ActivateProjectToolWindow">
           <value>
             <ActionSummary>
-              <option name="last" value="1582107280342" />
-              <option name="times" value="44" />
+              <option name="last" value="1582112972668" />
+              <option name="times" value="45" />
             </ActionSummary>
           </value>
         </entry>
@@ -242,6 +242,14 @@
             </ActionSummary>
           </value>
         </entry>
+        <entry key="DatabaseView.Dump.Native">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1582113735771" />
+              <option name="times" value="1" />
+            </ActionSummary>
+          </value>
+        </entry>
         <entry key="DatabaseView.PropertiesAction">
           <value>
             <ActionSummary>
@@ -253,8 +261,8 @@
         <entry key="DatabaseView.Refresh">
           <value>
             <ActionSummary>
-              <option name="last" value="1582056794290" />
-              <option name="times" value="30" />
+              <option name="last" value="1582113511010" />
+              <option name="times" value="32" />
             </ActionSummary>
           </value>
         </entry>
@@ -549,8 +557,8 @@
         <entry key="GotoDeclaration">
           <value>
             <ActionSummary>
-              <option name="last" value="1582111374435" />
-              <option name="times" value="331" />
+              <option name="last" value="1582111793228" />
+              <option name="times" value="332" />
             </ActionSummary>
           </value>
         </entry>
@@ -829,32 +837,32 @@
         <entry key="Tree-selectChild">
           <value>
             <ActionSummary>
-              <option name="last" value="1582093242199" />
-              <option name="times" value="67" />
+              <option name="last" value="1582112984045" />
+              <option name="times" value="70" />
             </ActionSummary>
           </value>
         </entry>
         <entry key="Tree-selectNext">
           <value>
             <ActionSummary>
-              <option name="last" value="1582093243504" />
-              <option name="times" value="772" />
+              <option name="last" value="1582112983101" />
+              <option name="times" value="778" />
             </ActionSummary>
           </value>
         </entry>
         <entry key="Tree-selectParent">
           <value>
             <ActionSummary>
-              <option name="last" value="1582093238276" />
-              <option name="times" value="146" />
+              <option name="last" value="1582112980687" />
+              <option name="times" value="155" />
             </ActionSummary>
           </value>
         </entry>
         <entry key="Tree-selectPrevious">
           <value>
             <ActionSummary>
-              <option name="last" value="1582093239243" />
-              <option name="times" value="226" />
+              <option name="last" value="1582112982111" />
+              <option name="times" value="227" />
             </ActionSummary>
           </value>
         </entry>
@@ -1077,8 +1085,8 @@
         <entry key="com.intellij.ide.actions.ExpandAllToolbarAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1582108766715" />
-              <option name="times" value="46" />
+              <option name="last" value="1582112600961" />
+              <option name="times" value="48" />
             </ActionSummary>
           </value>
         </entry>
@@ -1117,8 +1125,8 @@
         <entry key="com.intellij.openapi.project.DumbAwareAction$SimpleDumbAwareAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1582108806753" />
-              <option name="times" value="200" />
+              <option name="last" value="1582112656310" />
+              <option name="times" value="201" />
             </ActionSummary>
           </value>
         </entry>
@@ -1141,8 +1149,8 @@
         <entry key="com.intellij.openapi.wm.impl.ToolWindowHeader$HideAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1582111351745" />
-              <option name="times" value="210" />
+              <option name="last" value="1582111807787" />
+              <option name="times" value="214" />
             </ActionSummary>
           </value>
         </entry>
