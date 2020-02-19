@@ -69,8 +69,8 @@
         <entry key="Back">
           <value>
             <ActionSummary>
-              <option name="last" value="1582056286436" />
-              <option name="times" value="276" />
+              <option name="last" value="1582092732086" />
+              <option name="times" value="277" />
             </ActionSummary>
           </value>
         </entry>
@@ -261,8 +261,8 @@
         <entry key="EditorBackSpace">
           <value>
             <ActionSummary>
-              <option name="last" value="1582056448307" />
-              <option name="times" value="1324" />
+              <option name="last" value="1582092754513" />
+              <option name="times" value="1326" />
             </ActionSummary>
           </value>
         </entry>
@@ -317,8 +317,8 @@
         <entry key="EditorDeleteToWordStart">
           <value>
             <ActionSummary>
-              <option name="last" value="1582056247885" />
-              <option name="times" value="293" />
+              <option name="last" value="1582092754906" />
+              <option name="times" value="300" />
             </ActionSummary>
           </value>
         </entry>
@@ -549,8 +549,8 @@
         <entry key="GotoDeclaration">
           <value>
             <ActionSummary>
-              <option name="last" value="1582092632444" />
-              <option name="times" value="311" />
+              <option name="last" value="1582092730104" />
+              <option name="times" value="312" />
             </ActionSummary>
           </value>
         </entry>
@@ -725,8 +725,8 @@
         <entry key="ShowSettings">
           <value>
             <ActionSummary>
-              <option name="last" value="1582092648528" />
-              <option name="times" value="12" />
+              <option name="last" value="1582092734763" />
+              <option name="times" value="13" />
             </ActionSummary>
           </value>
         </entry>
