@@ -253,8 +253,8 @@
         <entry key="DatabaseView.PropertiesAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1582116582326" />
-              <option name="times" value="10" />
+              <option name="last" value="1582120580038" />
+              <option name="times" value="12" />
             </ActionSummary>
           </value>
         </entry>
@@ -837,8 +837,8 @@
         <entry key="Tree-selectChild">
           <value>
             <ActionSummary>
-              <option name="last" value="1582116035827" />
-              <option name="times" value="74" />
+              <option name="last" value="1582120429757" />
+              <option name="times" value="76" />
             </ActionSummary>
           </value>
         </entry>
@@ -853,8 +853,8 @@
         <entry key="Tree-selectParent">
           <value>
             <ActionSummary>
-              <option name="last" value="1582116029205" />
-              <option name="times" value="163" />
+              <option name="last" value="1582120428689" />
+              <option name="times" value="166" />
             </ActionSummary>
           </value>
         </entry>
@@ -1149,8 +1149,8 @@
         <entry key="com.intellij.openapi.wm.impl.ToolWindowHeader$HideAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1582116180647" />
-              <option name="times" value="218" />
+              <option name="last" value="1582120381431" />
+              <option name="times" value="220" />
             </ActionSummary>
           </value>
         </entry>
