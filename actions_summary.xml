@@ -245,16 +245,16 @@
         <entry key="DatabaseView.Dump.Native">
           <value>
             <ActionSummary>
-              <option name="last" value="1582115335687" />
-              <option name="times" value="2" />
+              <option name="last" value="1582116065841" />
+              <option name="times" value="3" />
             </ActionSummary>
           </value>
         </entry>
         <entry key="DatabaseView.PropertiesAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1581588696798" />
-              <option name="times" value="6" />
+              <option name="last" value="1582115630177" />
+              <option name="times" value="8" />
             </ActionSummary>
           </value>
         </entry>
@@ -725,8 +725,8 @@
         <entry key="Run">
           <value>
             <ActionSummary>
-              <option name="last" value="1581943055668" />
-              <option name="times" value="20" />
+              <option name="last" value="1582116024735" />
+              <option name="times" value="22" />
             </ActionSummary>
           </value>
         </entry>
@@ -837,32 +837,32 @@
         <entry key="Tree-selectChild">
           <value>
             <ActionSummary>
-              <option name="last" value="1582112984045" />
-              <option name="times" value="70" />
+              <option name="last" value="1582116035827" />
+              <option name="times" value="74" />
             </ActionSummary>
           </value>
         </entry>
         <entry key="Tree-selectNext">
           <value>
             <ActionSummary>
-              <option name="last" value="1582112983101" />
-              <option name="times" value="778" />
+              <option name="last" value="1582116036661" />
+              <option name="times" value="783" />
             </ActionSummary>
           </value>
         </entry>
         <entry key="Tree-selectParent">
           <value>
             <ActionSummary>
-              <option name="last" value="1582112980687" />
-              <option name="times" value="155" />
+              <option name="last" value="1582116029205" />
+              <option name="times" value="163" />
             </ActionSummary>
           </value>
         </entry>
         <entry key="Tree-selectPrevious">
           <value>
             <ActionSummary>
-              <option name="last" value="1582112982111" />
-              <option name="times" value="227" />
+              <option name="last" value="1582116031758" />
+              <option name="times" value="228" />
             </ActionSummary>
           </value>
         </entry>
@@ -1069,8 +1069,8 @@
         <entry key="com.intellij.ide.ReopenProjectAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1582114998640" />
-              <option name="times" value="17" />
+              <option name="last" value="1582115607736" />
+              <option name="times" value="18" />
             </ActionSummary>
           </value>
         </entry>
@@ -1085,8 +1085,8 @@
         <entry key="com.intellij.ide.actions.ExpandAllToolbarAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1582112600961" />
-              <option name="times" value="48" />
+              <option name="last" value="1582116184629" />
+              <option name="times" value="50" />
             </ActionSummary>
           </value>
         </entry>
@@ -1149,8 +1149,8 @@
         <entry key="com.intellij.openapi.wm.impl.ToolWindowHeader$HideAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1582114991366" />
-              <option name="times" value="216" />
+              <option name="last" value="1582116180647" />
+              <option name="times" value="218" />
             </ActionSummary>
           </value>
         </entry>
