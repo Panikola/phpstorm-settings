@@ -253,8 +253,8 @@
         <entry key="DatabaseView.PropertiesAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1582115630177" />
-              <option name="times" value="8" />
+              <option name="last" value="1582116582326" />
+              <option name="times" value="10" />
             </ActionSummary>
           </value>
         </entry>
@@ -269,8 +269,8 @@
         <entry key="EditorBackSpace">
           <value>
             <ActionSummary>
-              <option name="last" value="1582111371384" />
-              <option name="times" value="1415" />
+              <option name="last" value="1582116605389" />
+              <option name="times" value="1425" />
             </ActionSummary>
           </value>
         </entry>
@@ -565,8 +565,8 @@
         <entry key="GotoFile">
           <value>
             <ActionSummary>
-              <option name="last" value="1582107277464" />
-              <option name="times" value="89" />
+              <option name="last" value="1582116663089" />
+              <option name="times" value="90" />
             </ActionSummary>
           </value>
         </entry>
@@ -725,8 +725,8 @@
         <entry key="Run">
           <value>
             <ActionSummary>
-              <option name="last" value="1582116024735" />
-              <option name="times" value="22" />
+              <option name="last" value="1582116829679" />
+              <option name="times" value="24" />
             </ActionSummary>
           </value>
         </entry>
@@ -1069,8 +1069,8 @@
         <entry key="com.intellij.ide.ReopenProjectAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1582115607736" />
-              <option name="times" value="18" />
+              <option name="last" value="1582116572625" />
+              <option name="times" value="19" />
             </ActionSummary>
           </value>
         </entry>
@@ -1125,8 +1125,8 @@
         <entry key="com.intellij.openapi.project.DumbAwareAction$SimpleDumbAwareAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1582112656310" />
-              <option name="times" value="201" />
+              <option name="last" value="1582116666452" />
+              <option name="times" value="202" />
             </ActionSummary>
           </value>
         </entry>
