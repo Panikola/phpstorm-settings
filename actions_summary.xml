@@ -45,8 +45,8 @@
         <entry key="$Undo">
           <value>
             <ActionSummary>
-              <option name="last" value="1582199279936" />
-              <option name="times" value="1094" />
+              <option name="last" value="1582268687673" />
+              <option name="times" value="1099" />
             </ActionSummary>
           </value>
         </entry>
@@ -181,8 +181,8 @@
         <entry key="CommentByLineComment">
           <value>
             <ActionSummary>
-              <option name="last" value="1582149211962" />
-              <option name="times" value="47" />
+              <option name="last" value="1582268664328" />
+              <option name="times" value="50" />
             </ActionSummary>
           </value>
         </entry>
@@ -349,8 +349,8 @@
         <entry key="EditorDownWithSelection">
           <value>
             <ActionSummary>
-              <option name="last" value="1582152176807" />
-              <option name="times" value="188" />
+              <option name="last" value="1582268663403" />
+              <option name="times" value="189" />
             </ActionSummary>
           </value>
         </entry>
@@ -573,16 +573,16 @@
         <entry key="GotoDeclaration">
           <value>
             <ActionSummary>
-              <option name="last" value="1582198957927" />
-              <option name="times" value="376" />
+              <option name="last" value="1582268633771" />
+              <option name="times" value="378" />
             </ActionSummary>
           </value>
         </entry>
         <entry key="GotoFile">
           <value>
             <ActionSummary>
-              <option name="last" value="1582196606147" />
-              <option name="times" value="96" />
+              <option name="last" value="1582268577399" />
+              <option name="times" value="97" />
             </ActionSummary>
           </value>
         </entry>
@@ -613,8 +613,8 @@
         <entry key="Javascript.Linters.EsLint.Fix">
           <value>
             <ActionSummary>
-              <option name="last" value="1582152823002" />
-              <option name="times" value="93" />
+              <option name="last" value="1582268710769" />
+              <option name="times" value="95" />
             </ActionSummary>
           </value>
         </entry>
@@ -1181,8 +1181,8 @@
         <entry key="com.intellij.openapi.project.DumbAwareAction$SimpleDumbAwareAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1582197728193" />
-              <option name="times" value="222" />
+              <option name="last" value="1582268583853" />
+              <option name="times" value="223" />
             </ActionSummary>
           </value>
         </entry>
@@ -1205,8 +1205,8 @@
         <entry key="com.intellij.openapi.wm.impl.ToolWindowHeader$HideAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1582265446189" />
-              <option name="times" value="232" />
+              <option name="last" value="1582268574132" />
+              <option name="times" value="234" />
             </ActionSummary>
           </value>
         </entry>
@@ -1245,8 +1245,8 @@
         <entry key="com.intellij.ui.ScrollingUtil$6">
           <value>
             <ActionSummary>
-              <option name="last" value="1582129524864" />
-              <option name="times" value="202" />
+              <option name="last" value="1582268582148" />
+              <option name="times" value="205" />
             </ActionSummary>
           </value>
         </entry>
