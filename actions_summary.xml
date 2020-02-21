@@ -301,8 +301,8 @@
         <entry key="EditorCopy">
           <value>
             <ActionSummary>
-              <option name="last" value="1582199456634" />
-              <option name="times" value="631" />
+              <option name="last" value="1582265477815" />
+              <option name="times" value="632" />
             </ActionSummary>
           </value>
         </entry>
@@ -949,8 +949,8 @@
         <entry key="Vcs.UpdateProject">
           <value>
             <ActionSummary>
-              <option name="last" value="1582153717321" />
-              <option name="times" value="74" />
+              <option name="last" value="1582265341563" />
+              <option name="times" value="78" />
             </ActionSummary>
           </value>
         </entry>
@@ -1205,8 +1205,8 @@
         <entry key="com.intellij.openapi.wm.impl.ToolWindowHeader$HideAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1582196866408" />
-              <option name="times" value="230" />
+              <option name="last" value="1582265446189" />
+              <option name="times" value="232" />
             </ActionSummary>
           </value>
         </entry>
