@@ -53,16 +53,16 @@
         <entry key="ActivateCommitToolWindow">
           <value>
             <ActionSummary>
-              <option name="last" value="1582153600230" />
-              <option name="times" value="61" />
+              <option name="last" value="1582269881554" />
+              <option name="times" value="62" />
             </ActionSummary>
           </value>
         </entry>
         <entry key="ActivateProjectToolWindow">
           <value>
             <ActionSummary>
-              <option name="last" value="1582196850153" />
-              <option name="times" value="50" />
+              <option name="last" value="1582269351865" />
+              <option name="times" value="51" />
             </ActionSummary>
           </value>
         </entry>
@@ -226,6 +226,22 @@
             </ActionSummary>
           </value>
         </entry>
+        <entry key="CopyContentRootPath">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1582269476632" />
+              <option name="times" value="1" />
+            </ActionSummary>
+          </value>
+        </entry>
+        <entry key="CopyReferencePopup">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1582269469195" />
+              <option name="times" value="1" />
+            </ActionSummary>
+          </value>
+        </entry>
         <entry key="DatabaseView.Ddl.AddColumn">
           <value>
             <ActionSummary>
@@ -277,8 +293,8 @@
         <entry key="EditorBackSpace">
           <value>
             <ActionSummary>
-              <option name="last" value="1582201552225" />
-              <option name="times" value="1700" />
+              <option name="last" value="1582269907290" />
+              <option name="times" value="1703" />
             </ActionSummary>
           </value>
         </entry>
@@ -381,8 +397,8 @@
         <entry key="EditorLeft">
           <value>
             <ActionSummary>
-              <option name="last" value="1582199384513" />
-              <option name="times" value="2755" />
+              <option name="last" value="1582269905649" />
+              <option name="times" value="2765" />
             </ActionSummary>
           </value>
         </entry>
@@ -453,8 +469,8 @@
         <entry key="EditorRight">
           <value>
             <ActionSummary>
-              <option name="last" value="1582199374175" />
-              <option name="times" value="3159" />
+              <option name="last" value="1582269906162" />
+              <option name="times" value="3161" />
             </ActionSummary>
           </value>
         </entry>
@@ -557,8 +573,8 @@
         <entry key="Git.Commit.And.Push.Executor">
           <value>
             <ActionSummary>
-              <option name="last" value="1582153707539" />
-              <option name="times" value="50" />
+              <option name="last" value="1582269921839" />
+              <option name="times" value="51" />
             </ActionSummary>
           </value>
         </entry>
@@ -770,6 +786,14 @@
             </ActionSummary>
           </value>
         </entry>
+        <entry key="ShowFilePath">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1582269412987" />
+              <option name="times" value="4" />
+            </ActionSummary>
+          </value>
+        </entry>
         <entry key="ShowIntentionActions">
           <value>
             <ActionSummary>
@@ -925,8 +949,8 @@
         <entry key="Vcs.Push">
           <value>
             <ActionSummary>
-              <option name="last" value="1582153723503" />
-              <option name="times" value="38" />
+              <option name="last" value="1582270091391" />
+              <option name="times" value="40" />
             </ActionSummary>
           </value>
         </entry>
@@ -949,8 +973,8 @@
         <entry key="Vcs.UpdateProject">
           <value>
             <ActionSummary>
-              <option name="last" value="1582265341563" />
-              <option name="times" value="78" />
+              <option name="last" value="1582270072975" />
+              <option name="times" value="82" />
             </ActionSummary>
           </value>
         </entry>
@@ -1149,8 +1173,8 @@
         <entry key="com.intellij.ide.projectView.impl.ProjectViewImpl$ScrollFromSourceAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1582198960516" />
-              <option name="times" value="70" />
+              <option name="last" value="1582269353860" />
+              <option name="times" value="72" />
             </ActionSummary>
           </value>
         </entry>
@@ -1269,8 +1293,8 @@
         <entry key="com.intellij.xdebugger.impl.breakpoints.RemoveBreakpointGutterIconAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1582152992984" />
-              <option name="times" value="31" />
+              <option name="last" value="1582269850764" />
+              <option name="times" value="32" />
             </ActionSummary>
           </value>
         </entry>
@@ -1309,16 +1333,16 @@
         <entry key="git4idea.ui.branch.GitBranchPopupActions$LocalBranchActions$CheckoutAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1582147860361" />
-              <option name="times" value="61" />
+              <option name="last" value="1582269950527" />
+              <option name="times" value="62" />
             </ActionSummary>
           </value>
         </entry>
         <entry key="git4idea.ui.branch.GitBranchPopupActions$MergeAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1582147751056" />
-              <option name="times" value="33" />
+              <option name="last" value="1582269958471" />
+              <option name="times" value="34" />
             </ActionSummary>
           </value>
         </entry>
