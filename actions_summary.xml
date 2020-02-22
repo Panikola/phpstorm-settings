@@ -53,8 +53,8 @@
         <entry key="ActivateCommitToolWindow">
           <value>
             <ActionSummary>
-              <option name="last" value="1582309618008" />
-              <option name="times" value="65" />
+              <option name="last" value="1582354633468" />
+              <option name="times" value="66" />
             </ActionSummary>
           </value>
         </entry>
@@ -301,8 +301,8 @@
         <entry key="EditorBackSpace">
           <value>
             <ActionSummary>
-              <option name="last" value="1582352578560" />
-              <option name="times" value="2172" />
+              <option name="last" value="1582354728700" />
+              <option name="times" value="2174" />
             </ActionSummary>
           </value>
         </entry>
@@ -581,8 +581,8 @@
         <entry key="Git.Commit.And.Push.Executor">
           <value>
             <ActionSummary>
-              <option name="last" value="1582284310309" />
-              <option name="times" value="53" />
+              <option name="last" value="1582354742145" />
+              <option name="times" value="54" />
             </ActionSummary>
           </value>
         </entry>
@@ -925,8 +925,8 @@
         <entry key="Tree-selectNext">
           <value>
             <ActionSummary>
-              <option name="last" value="1582285501635" />
-              <option name="times" value="871" />
+              <option name="last" value="1582354695885" />
+              <option name="times" value="873" />
             </ActionSummary>
           </value>
         </entry>
@@ -941,8 +941,8 @@
         <entry key="Tree-selectPrevious">
           <value>
             <ActionSummary>
-              <option name="last" value="1582205651905" />
-              <option name="times" value="280" />
+              <option name="last" value="1582354704189" />
+              <option name="times" value="309" />
             </ActionSummary>
           </value>
         </entry>
