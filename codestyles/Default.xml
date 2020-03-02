@@ -1,47 +1,8 @@
 <code_scheme name="Default" version="173">
-  <HTMLCodeStyleSettings>
-    <option name="HTML_KEEP_WHITESPACES" value="true" />
-    <option name="HTML_ALIGN_TEXT" value="true" />
-    <option name="HTML_SPACE_INSIDE_EMPTY_TAG" value="true" />
-  </HTMLCodeStyleSettings>
-  <JSCodeStyleSettings version="0">
-    <option name="FORCE_SEMICOLON_STYLE" value="true" />
-    <option name="SPACE_BEFORE_FUNCTION_LEFT_PARENTH" value="false" />
-    <option name="USE_DOUBLE_QUOTES" value="false" />
-    <option name="FORCE_QUOTE_STYlE" value="true" />
-    <option name="ENFORCE_TRAILING_COMMA" value="WhenMultiline" />
-    <option name="SPACES_WITHIN_OBJECT_LITERAL_BRACES" value="true" />
-    <option name="SPACES_WITHIN_IMPORTS" value="true" />
-    <option name="SPACES_WITHIN_INTERPOLATION_EXPRESSIONS" value="true" />
-    <option name="SPACE_BEFORE_UNARY_NOT" value="true" />
-    <option name="SPACE_AFTER_UNARY_NOT" value="true" />
-  </JSCodeStyleSettings>
-  <codeStyleSettings language="Blade">
-    <indentOptions>
-      <option name="INDENT_SIZE" value="2" />
-      <option name="CONTINUATION_INDENT_SIZE" value="2" />
-      <option name="TAB_SIZE" value="2" />
-    </indentOptions>
-  </codeStyleSettings>
-  <codeStyleSettings language="HTML">
-    <indentOptions>
-      <option name="INDENT_SIZE" value="2" />
-      <option name="CONTINUATION_INDENT_SIZE" value="2" />
-      <option name="TAB_SIZE" value="2" />
-    </indentOptions>
-  </codeStyleSettings>
-  <codeStyleSettings language="JavaScript">
-    <indentOptions>
-      <option name="INDENT_SIZE" value="2" />
-      <option name="CONTINUATION_INDENT_SIZE" value="2" />
-      <option name="TAB_SIZE" value="2" />
-    </indentOptions>
-  </codeStyleSettings>
   <codeStyleSettings language="PHP">
     <indentOptions>
-      <option name="INDENT_SIZE" value="2" />
-      <option name="CONTINUATION_INDENT_SIZE" value="2" />
-      <option name="TAB_SIZE" value="2" />
+      <option name="USE_TAB_CHARACTER" value="true" />
+      <option name="SMART_TABS" value="true" />
     </indentOptions>
   </codeStyleSettings>
 </code_scheme>
