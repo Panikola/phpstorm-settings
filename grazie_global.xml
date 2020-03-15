@@ -6,6 +6,9 @@
         <option value="Russian" />
       </set>
     </option>
+    <option name="enabledProgrammingLanguages">
+      <set />
+    </option>
     <option name="enabledCommitIntegration" value="true" />
     <option name="userEnabledRules">
       <set>
@@ -64,6 +67,6 @@
         <option value="ZEPHYR" />
       </set>
     </option>
-    <option name="lastSeenVersion" value="201.5259.13" />
+    <option name="version" value="1" />
   </component>
 </application>
