@@ -3,7 +3,7 @@
     <property name="created">2020-02-29T14:54:54</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2020.1.0.0</property>
-    <property name="modified">2020-03-30T09:58:20</property>
+    <property name="modified">2020-03-31T18:53:03</property>
     <property name="originalScheme">Blackboard</property>
   </metaInfo>
   <colors>
@@ -1006,8 +1006,8 @@
         <option name="FOREGROUND" value="61ce3c" />
       </value>
     </option>
-    <option name="PHP_PARAMETER" baseAttributes="" />
-    <option name="PHP_VAR" baseAttributes="" />
+    <option name="PHP_PARAMETER" baseAttributes="DEFAULT_PARAMETER" />
+    <option name="PHP_VAR" baseAttributes="DEFAULT_LOCAL_VARIABLE" />
     <option name="PROTOCOL_REFERENCE">
       <value>
         <option name="FOREGROUND" value="ff6400" />
