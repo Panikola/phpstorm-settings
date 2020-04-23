@@ -1,8 +1,8 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping pattern=".env.webpack" type="PLAIN_TEXT" />
       <mapping pattern="01a770903dafa7591bc44cd90196817ddcee9cc0" type="PLAIN_TEXT" />
+      <mapping pattern=".env.webpack" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
